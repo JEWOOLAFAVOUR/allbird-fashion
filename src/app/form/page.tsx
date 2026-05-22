@@ -16,6 +16,7 @@ export default function page() {
       </div>
       <button className="p-2 bg-blue-300 mt-3 cursor-pointer">Submit</button>
       <h1 className="mt-5">My name is: {firstName}</h1>
+      <h1 className="mt-5">My name is: {firstName}</h1>
     </div>
   );
 }
