@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <nav className="bg-gray-800 p-4">
       <div className="container mx-auto flex items-center justify-between">
-        <div className="text-white text-lg font-bold">BOI CLASS</div>
+        <div className="text-white text-lg font-bold">FRIDAY CLASS</div>
         <div>
           <a
             href="#"
